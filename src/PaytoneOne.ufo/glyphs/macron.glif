@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="607"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <component base="hyphen" xOffset="-26" yOffset="732"/>
+  </outline>
+</glyph>
