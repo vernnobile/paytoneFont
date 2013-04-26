@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="1036"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="545" y="-32" type="curve" smooth="yes"/>
+      <point x="281.664" y="-32"/>
+      <point x="49" y="90.1461"/>
+      <point x="49" y="350" type="curve" smooth="yes"/>
+      <point x="49" y="579.677"/>
+      <point x="239.823" y="649.79"/>
+      <point x="394" y="719" type="curve" smooth="yes"/>
+      <point x="466.036" y="751.343"/>
+      <point x="509" y="765.731"/>
+      <point x="509" y="862" type="curve" smooth="yes"/>
+      <point x="509" y="888" type="line"/>
+      <point x="795" y="888" type="line"/>
+      <point x="818" y="810" type="line"/>
+      <point x="829.602" y="775.194"/>
+      <point x="834.8" y="744.487"/>
+      <point x="834.8" y="717.131" type="curve" smooth="yes"/>
+      <point x="834.8" y="548.466"/>
+      <point x="637.194" y="507.216"/>
+      <point x="524.5" y="418.5" type="curve" smooth="yes"/>
+      <point x="508.833" y="406.167"/>
+      <point x="501" y="394"/>
+      <point x="501" y="382" type="curve" smooth="yes"/>
+      <point x="501" y="338"/>
+      <point x="555" y="316"/>
+      <point x="663" y="316" type="curve" smooth="yes"/>
+      <point x="768.333" y="316"/>
+      <point x="857" y="334"/>
+      <point x="929" y="370" type="curve"/>
+      <point x="957" y="58" type="line"/>
+      <point x="811" y="-2"/>
+      <point x="673.667" y="-32"/>
+    </contour>
+    <contour>
+      <point x="655" y="1440" type="curve" smooth="yes"/>
+      <point x="780.111" y="1440"/>
+      <point x="887" y="1355.85"/>
+      <point x="887" y="1232" type="curve" smooth="yes"/>
+      <point x="887" y="1108.65"/>
+      <point x="778.72" y="1026"/>
+      <point x="655" y="1026" type="curve" smooth="yes"/>
+      <point x="532.301" y="1026"/>
+      <point x="425" y="1110.6"/>
+      <point x="425" y="1232" type="curve" smooth="yes"/>
+      <point x="425" y="1356.92"/>
+      <point x="529.925" y="1440"/>
+    </contour>
+  </outline>
+</glyph>

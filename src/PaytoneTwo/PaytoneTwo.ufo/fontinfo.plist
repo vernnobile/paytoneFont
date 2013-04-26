@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Paytone One</string>
+	<key>styleName</key>
+	<string>Book</string>
+	<key>copyright</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>trademark</key>
+	<string>Paytone One is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>1026</integer>
+	<key>capHeight</key>
+	<integer>1408</integer>
+	<key>ascender</key>
+	<integer>1638</integer>
+	<key>descender</key>
+	<integer>-410</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2011/05/03 00:31:43</string>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
+	<key>openTypeNameManufacturer</key>
+	<string>vernon adams</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>1.000</string>
+	<key>openTypeNameUniqueID</key>
+	<string>1.000;Paytone One</string>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>pyrs</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2280</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>240</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>2280</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>-1182</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>287</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>1434</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>977</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>512</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>59</integer>
+		<integer>90</integer>
+		<integer>92</integer>
+	</array>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>PaytoneOne</string>
+	<key>postscriptFullName</key>
+	<string>Paytone One</string>
+	<key>postscriptWeightName</key>
+	<string>Book</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-104</integer>
+    </dict>
+</plist>
